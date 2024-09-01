@@ -1,0 +1,19 @@
+'Bye "Bye (Bye {Bye [Bye
+Bye. Bye.. Bye, Bye,,
+
+'Would "Would (Would {Would [Would
+Would. Would.. Would, Would,,
+
+'Should "Should (Should {Should [Should
+Should. Should.. Should, Should,,
+
+'Property "Property (Property {Property [Property
+Property. Property.. Property, Property,,
+
+'Zygote "Zygote (Zygote {Zygote [Zygote
+Zygote. Zygote.. Zygote, Zygote,,
+
+'Hello "Hello (Hello {Hello [Hello
+Hello. Hello.. Hello, Hello,,
+
+Big-Word this-House Hyphen-Check
